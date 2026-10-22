@@ -18,8 +18,6 @@ Modelo de datos con una tabla de hechos y tres dimensiones, medidas de ingreso, 
 Power BI · Jupyter Notebook
 
 ## Dashboard
-![Dashboard de resumen](dashboard-resumen.png)
-
 📊 [Ver dashboard completo (PDF)](proyecto%2011.pdf)
 
 ## Métricas principales
