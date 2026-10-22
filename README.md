@@ -18,6 +18,8 @@ Modelo de datos con una tabla de hechos y tres dimensiones, medidas de ingreso, 
 Power BI · Jupyter Notebook
 
 ## Dashboard
+![Dashboard de resumen](dashboard-resumen.png)
+
 📊 [Ver dashboard completo (PDF)](proyecto%2011.pdf)
 
 ## Métricas principales
@@ -26,6 +28,7 @@ Power BI · Jupyter Notebook
 | $6,012,502,170 | 8,500 | $707,353 | $200,627,166 | 11.14% |
 
 ## Hallazgos
+- **Ciudad de México** lidera en ingreso (~$3,242 M, 54% del total), seguida de Bogotá ($2,770 M).
 - **Casa** lidera en ingreso total (37%, $2,240 M), seguida de Comercial y Departamento. **Departamento** concentra el mayor número de ventas (5,105) y **Comercial** tiene el ticket promedio más alto ($1,797,098).
 - El canal **Corredor** concentra el **73%** del ingreso total frente al canal Directo.
 - El segmento **Primera vez** aporta el **63%** del ingreso, seguido de Inversionista y Alto patrimonio.
