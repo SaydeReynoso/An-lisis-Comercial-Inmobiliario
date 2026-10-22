@@ -17,6 +17,9 @@ Modelo de datos con una tabla de hechos y tres dimensiones, medidas de ingreso, 
 ## Herramientas
 Power BI · Jupyter Notebook
 
+## Dashboard
+📊 [Ver dashboard completo (PDF)](proyecto%2011.pdf)
+
 ## Métricas principales
 | Ingreso total | Ventas | Ticket promedio | Comisión total | Crecimiento YoY |
 |---|---|---|---|---|
